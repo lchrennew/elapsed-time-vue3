@@ -1,0 +1,21 @@
+{
+  "name": "elapsed-time-vue3",
+  "version": "0.0.3",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "files": [
+    "src"
+  ],
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.0.3"
+  }
+}
